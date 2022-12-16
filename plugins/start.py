@@ -238,7 +238,7 @@ async def cb_handler(client, query: CallbackQuery):
         return
     elif data == "help":
         await query.message.edit_text(
-            text=mr.HELP_TXT,
+            text=kr.HELP_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                InlineKeyboardButton(' Dᴏɴᴀᴛᴇ 💸 Mᴇ ', callback_data='don')
                ],[
@@ -249,7 +249,7 @@ async def cb_handler(client, query: CallbackQuery):
         )
     elif data == "about":
         await query.message.edit_text(
-            text=mr.ABOUT_TXT.format(client.mention),
+            text=kr.ABOUT_TXT.format(client.mention),
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
                InlineKeyboardButton(' Dᴏɴᴀᴛᴇ 💸 Mᴇ ', callback_data='don')
@@ -264,7 +264,7 @@ async def cb_handler(client, query: CallbackQuery):
         )
     elif data == "dev":
         await query.message.edit_text(
-            text=mr.DEV_TXT,
+            text=kr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                InlineKeyboardButton('๑۩ tค๓เl ۞ التاميل ۩๑', url='https://t.me/mr_tamil_kid'),
                ],[
@@ -275,7 +275,7 @@ async def cb_handler(client, query: CallbackQuery):
         )
     elif data == "don":
         await query.message.edit_text(
-            text=mr.DON_TXT,
+            text=kr.DON_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                InlineKeyboardButton('Pᴀʏ 💰 Aᴍᴏᴜɴᴛ', url='https://t.me/mr_happy_kid_sk'),
                ],[
@@ -296,7 +296,7 @@ async def answerX(bot, update):
 
     answer = list()
     answer.append(InlineQueryResultArticle(title="Dᴏɴᴀᴛᴇ Pᴀʏᴍᴇɴᴛ Oʀ Hᴇʀᴏᴋ Aᴄᴄᴏᴜɴᴛ", description="Dᴏɴᴀᴛᴇ Oɴʟʏ Oɴᴇ Rᴜᴘᴇᴇ 🥲.",
-    input_message_content=InputTextMessageContent(message_text=mr.DON_TXT),
+    input_message_content=InputTextMessageContent(message_text=kr.DON_TXT),
     reply_markup=InlineKeyboardMarkup( [[ 
         InlineKeyboardButton("Dᴏɴᴀᴛᴇ 💳", url="https://p.paytm.me/xCTH/1icxtwpo"),
         ],[
@@ -307,7 +307,7 @@ async def answerX(bot, update):
     thumb_url="https://telegra.ph/file/3d7e72118de22df4f553f.jpg") )
 
     answer.append(InlineQueryResultArticle(title="I Nᴇᴇᴅ Pʀɪᴠᴀᴛᴇ Bᴏᴛs  ", description="Fɪʀsᴛ Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ.",
-    input_message_content=InputTextMessageContent(message_text=mr.PRI_TXT),
+    input_message_content=InputTextMessageContent(message_text=kr.PRI_TXT),
     reply_markup=InlineKeyboardMarkup( [[ 
         InlineKeyboardButton("♡︎ Cᴏɴᴛᴀᴄᴛ 🧛‍♂️ Aᴅᴍɪɴ ♡︎", url="https://t.me/mrtamil_kid")
         ],[
