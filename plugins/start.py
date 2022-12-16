@@ -38,38 +38,50 @@ async def start(client,message):
 	    id = message.text.split(' ')[1]
 	except:
 	    await message.reply_photo(
-       photo="https://telegra.ph/file/e954574ef60c1790caa79.jpg",
-       caption=f""" <b> Hᴇʟʟᴏ 👋 {message.from_user.mention} I Aᴍ 🧛‍♂️ Fɪʟᴇs Rᴇɴᴀᴍᴇʀ Bᴏᴛ + Fɪʟᴇ 2 Vɪᴅᴇᴏ Cᴏɴᴇʀᴛᴇʀ BOT Wɪᴛʜ Pᴇʀᴍᴀɴᴇɴᴛ Tʜᴜᴍʙɴᴀɪʟ 💞....!!
- Sʜᴀʀᴇ Aɴᴅ Sᴜᴘᴘᴏʀᴛ Us......!!! 🦋 </b> 🤩 """,reply_to_message_id = message.id ,  
+       photo="https://graph.org/file/c72af6f77c6d164b81dd2.jpg",
+       caption=f""" <b> ⍟ Hᴇʟʟᴏ Mʏ Fʀɪᴇɴᴅ {message.from_user.mention} ⍟ 
+ 
+⍟ Mʏ Nᴀᴍᴇ Iꜱ <a href='https://t.me/kr_renamer_bot'>『 Fɪʟᴇs Rᴇɴᴀᴍᴇ Pʀᴏ 』</a> ⍟
+✌︎ I Aᴍ PᴏᴡᴇʀFᴜʟ 👑 Fɪʟᴇ Rᴇɴᴀᴍᴇ Bᴏᴛ  
+🚀 Sᴇᴇ Mʏ Pᴏᴡᴇʀ ⚡.....!!
+⚜️ Sʜᴀʀᴇ Aɴᴅ Sᴜᴘᴘᴏʀᴛ Us 💖......!!! </b> """,reply_to_message_id = message.id ,  
 	reply_markup=InlineKeyboardMarkup(
 	 [[
-         InlineKeyboardButton("♡︎ Cᴏɴᴛᴀᴄᴛ 🧛‍♂️ Aᴅᴍɪɴ ♡︎", url='https://t.me/KR_Admin_Bot')
-         ],[
-         InlineKeyboardButton('📢 Uᴘᴅᴀᴛᴇs', url='https://t.me/KR_botz'),
-         InlineKeyboardButton('ℹ️ Sᴜᴘᴘᴏʀᴛ', url='https://t.me/+9o1NJzs67xc5ODA1')
-         ],[
-         InlineKeyboardButton('💡 Hᴇʟᴘ', callback_data='help'),
-         InlineKeyboardButton('📚 Aʙᴏᴜᴛ', callback_data='about')
-         ]]))
+          InlineKeyboardButton('♡︎ Cᴏɴᴛᴀᴄᴛ 🧛‍♂️ Aᴅᴍɪɴ ♡︎', url=f'http://t.me/mr_tamil_kid')
+          ],[
+          InlineKeyboardButton('📢 Uᴘᴅᴀᴛᴇ', url='https://t.me/kr_botz'),
+          InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ', url='https://t.me/kr_join')
+          ],[
+          InlineKeyboardButton(' Iɴʟɪɴᴇ 🔍 Sᴇᴀʀᴄʜ ', switch_inline_query_current_chat='')
+          ],[
+          InlineKeyboardButton('⚙️ Hᴇʟᴘ', callback_data='help'),
+          InlineKeyboardButton('📚 Aʙᴏᴜᴛ', callback_data='about')
+          ]]))
 	    return
 	if id:
 	    if old == True:
 	        try:
 	            await client.send_message(id,"Your Frind Alredy Using Our Bot")
 	            await message.reply_photo(
-       photo="https://telegra.ph/file/e954574ef60c1790caa79.jpg",
-       caption=f""" <b> Hᴇʟʟᴏ 👋 {message.from_user.mention} I Aᴍ 🧛‍♂️ Fɪʟᴇs Rᴇɴᴀᴍᴇʀ Bᴏᴛ + Fɪʟᴇ 2 Vɪᴅᴇᴏ Cᴏɴᴇʀᴛᴇʀ BOT Wɪᴛʜ Pᴇʀᴍᴀɴᴇɴᴛ Tʜᴜᴍʙɴᴀɪʟ 💞....!!
- Sʜᴀʀᴇ Aɴᴅ Sᴜᴘᴘᴏʀᴛ Us......!!! 🦋 </b> 🤩 """,reply_to_message_id = message.id ,  
+       photo="https://graph.org/file/c72af6f77c6d164b81dd2.jpg",
+       caption=f""" <b> ⍟ Hᴇʟʟᴏ Mʏ Fʀɪᴇɴᴅ {message.from_user.mention} ⍟ 
+ 
+⍟ Mʏ Nᴀᴍᴇ Iꜱ <a href='https://t.me/kr_renamer_bot'>『 Fɪʟᴇs Rᴇɴᴀᴍᴇ Pʀᴏ 』</a> ⍟
+✌︎ I Aᴍ PᴏᴡᴇʀFᴜʟ 👑 Fɪʟᴇ Rᴇɴᴀᴍᴇ Bᴏᴛ  
+🚀 Sᴇᴇ Mʏ Pᴏᴡᴇʀ ⚡.....!!
+⚜️ Sʜᴀʀᴇ Aɴᴅ Sᴜᴘᴘᴏʀᴛ Us 💖......!!! </b> """,reply_to_message_id = message.id ,  
 	reply_markup=InlineKeyboardMarkup(
 	 [[
-         InlineKeyboardButton("♡︎ Cᴏɴᴛᴀᴄᴛ 🧛‍♂️ Aᴅᴍɪɴ ♡︎", url='https://t.me/MrTamil_KiD')
-         ],[
-         InlineKeyboardButton('📢 Uᴘᴅᴀᴛᴇs', url='https://t.me/KR_botz'),
-         InlineKeyboardButton('ℹ️ Sᴜᴘᴘᴏʀᴛ', url='https://t.me/+9o1NJzs67xc5ODA1')
-         ],[
-         InlineKeyboardButton('💡 Hᴇʟᴘ', callback_data='help'),
-         InlineKeyboardButton('📚 Aʙᴏᴜᴛ', callback_data='about')
-         ]]))
+          InlineKeyboardButton('♡︎ Cᴏɴᴛᴀᴄᴛ 🧛‍♂️ Aᴅᴍɪɴ ♡︎', url=f'http://t.me/mr_tamil_kid')
+          ],[
+          InlineKeyboardButton('📢 Uᴘᴅᴀᴛᴇ', url='https://t.me/kr_botz'),
+          InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ', url='https://t.me/kr_join')
+          ],[
+          InlineKeyboardButton(' Iɴʟɪɴᴇ 🔍 Sᴇᴀʀᴄʜ ', switch_inline_query_current_chat='')
+          ],[
+          InlineKeyboardButton('⚙️ Hᴇʟᴘ', callback_data='help'),
+          InlineKeyboardButton('📚 Aʙᴏᴜᴛ', callback_data='about')
+          ]]))
 	        except:
 	             return
 	    else:
@@ -79,19 +91,25 @@ async def start(client,message):
 	         new_limit = limit + 104857600
 	         uploadlimit(int(id),new_limit)
 	         await message.reply_photo(
-       photo="https://telegra.ph/file/e954574ef60c1790caa79.jpg",
-       caption=f""" <b> Hᴇʟʟᴏ 👋 {message.from_user.mention} I Aᴍ 🧛‍♂️ Fɪʟᴇs Rᴇɴᴀᴍᴇʀ Bᴏᴛ + Fɪʟᴇ 2 Vɪᴅᴇᴏ Cᴏɴᴇʀᴛᴇʀ BOT Wɪᴛʜ Pᴇʀᴍᴀɴᴇɴᴛ Tʜᴜᴍʙɴᴀɪʟ 💞....!!
- Sʜᴀʀᴇ Aɴᴅ Sᴜᴘᴘᴏʀᴛ Us......!!! 🦋 </b> 🤩 """,reply_to_message_id = message.id ,  
+       photo="https://graph.org/file/c72af6f77c6d164b81dd2.jpg",
+       caption=f""" <b> ⍟ Hᴇʟʟᴏ Mʏ Fʀɪᴇɴᴅ {message.from_user.mention} ⍟ 
+ 
+⍟ Mʏ Nᴀᴍᴇ Iꜱ <a href='https://t.me/kr_renamer_bot'>『 Fɪʟᴇs Rᴇɴᴀᴍᴇ Pʀᴏ 』</a> ⍟
+✌︎ I Aᴍ PᴏᴡᴇʀFᴜʟ 👑 Fɪʟᴇ Rᴇɴᴀᴍᴇ Bᴏᴛ  
+🚀 Sᴇᴇ Mʏ Pᴏᴡᴇʀ ⚡.....!!
+⚜️ Sʜᴀʀᴇ Aɴᴅ Sᴜᴘᴘᴏʀᴛ Us 💖......!!! </b> """,reply_to_message_id = message.id ,  
 	reply_markup=InlineKeyboardMarkup(
 	 [[
-         InlineKeyboardButton("♡︎ Cᴏɴᴛᴀᴄᴛ 🧛‍♂️ Aᴅᴍɪɴ ♡︎", url='https://t.me/KR_Admin_Bot')
-         ],[
-         InlineKeyboardButton('📢 Uᴘᴅᴀᴛᴇs', url='https://t.me/KR_botz'),
-         InlineKeyboardButton('ℹ️ Sᴜᴘᴘᴏʀᴛ', url='https://t.me/+9o1NJzs67xc5ODA1')
-         ],[
-         InlineKeyboardButton('💡 Hᴇʟᴘ', callback_data='help'),
-         InlineKeyboardButton('📚 Aʙᴏᴜᴛ', callback_data='about')
-         ]]))
+          InlineKeyboardButton('♡︎ Cᴏɴᴛᴀᴄᴛ 🧛‍♂️ Aᴅᴍɪɴ ♡︎', url=f'http://t.me/mr_tamil_kid')
+          ],[
+          InlineKeyboardButton('📢 Uᴘᴅᴀᴛᴇ', url='https://t.me/kr_botz'),
+          InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ', url='https://t.me/kr_join')
+          ],[
+          InlineKeyboardButton(' Iɴʟɪɴᴇ 🔍 Sᴇᴀʀᴄʜ ', switch_inline_query_current_chat='')
+          ],[
+          InlineKeyboardButton('⚙️ Hᴇʟᴘ', callback_data='help'),
+          InlineKeyboardButton('📚 Aʙᴏᴜᴛ', callback_data='about')
+          ]]))
 	         
 
 
@@ -198,14 +216,21 @@ async def cb_handler(client, query: CallbackQuery):
     data = query.data 
     if data == "start":
         await query.message.edit_text(
-            text=kr.START_TXT,
+            text=f""" <b> ⍟ Hᴇʟʟᴏ Mʏ Fʀɪᴇɴᴅ {query.from_user.mention} ⍟ 
+ 
+⍟ Mʏ Nᴀᴍᴇ Iꜱ <a href='https://t.me/kr_renamer_bot'>『 Fɪʟᴇs Rᴇɴᴀᴍᴇ Pʀᴏ 』</a>
+✌︎ I Aᴍ PᴏᴡᴇʀFᴜʟ 👑 Fɪʟᴇ Rᴇɴᴀᴍᴇ Bᴏᴛ  
+🚀 Sᴇᴇ Mʏ Pᴏᴡᴇʀ ⚡.....!!
+⚜️ Sʜᴀʀᴇ Aɴᴅ Sᴜᴘᴘᴏʀᴛ Us 💖......!!! </b> """,
             reply_markup=InlineKeyboardMarkup( [[
-                InlineKeyboardButton("♡︎ Cᴏɴᴛᴀᴄᴛ 🧛‍♂️ Aᴅᴍɪɴ ♡︎", url='https://t.me/KR_Admin_Bot')
+                InlineKeyboardButton('♡︎ Cᴏɴᴛᴀᴄᴛ 🧛‍♂️ Aᴅᴍɪɴ ♡︎', url=f'http://t.me/mr_tamil_kid')
                 ],[
-                InlineKeyboardButton('📢 Uᴘᴅᴀᴛᴇs', url='https://t.me/KR_botz'),
-                InlineKeyboardButton('ℹ️ Sᴜᴘᴘᴏʀᴛ', url='https://t.me/+9o1NJzs67xc5ODA1')
+                InlineKeyboardButton('📢 Uᴘᴅᴀᴛᴇ', url='https://t.me/kr_botz'),
+                InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ', url='https://t.me/kr_join')
                 ],[
-                InlineKeyboardButton('💡 Hᴇʟᴘ', callback_data='help'),
+                InlineKeyboardButton(' Iɴʟɪɴᴇ 🔍 Sᴇᴀʀᴄʜ ', switch_inline_query_current_chat='')
+                ],[
+                InlineKeyboardButton('⚙️ Hᴇʟᴘ', callback_data='help'),
                 InlineKeyboardButton('📚 Aʙᴏᴜᴛ', callback_data='about')
                 ]]
                 )
@@ -213,9 +238,9 @@ async def cb_handler(client, query: CallbackQuery):
         return
     elif data == "help":
         await query.message.edit_text(
-            text=kr.HELP_TXT,
+            text=mr.HELP_TXT,
             reply_markup=InlineKeyboardMarkup( [[
-               InlineKeyboardButton(' Dᴏɴᴀᴛᴇ 💸 Mᴇ ', callback_data='dev')
+               InlineKeyboardButton(' Dᴏɴᴀᴛᴇ 💸 Mᴇ ', callback_data='don')
                ],[
                InlineKeyboardButton("⛺ Hᴏᴍᴇ", callback_data = "start"),
                InlineKeyboardButton("🗑 Cʟᴏsᴇ", callback_data = "close")
@@ -224,9 +249,13 @@ async def cb_handler(client, query: CallbackQuery):
         )
     elif data == "about":
         await query.message.edit_text(
-            text=kr.ABOUT_TXT,
+            text=mr.ABOUT_TXT.format(client.mention),
+            disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
-               InlineKeyboardButton(' Dᴏɴᴀᴛᴇ 💸 Mᴇ ', callback_data='dev')
+               InlineKeyboardButton(' Dᴏɴᴀᴛᴇ 💸 Mᴇ ', callback_data='don')
+               ],[
+               InlineKeyboardButton("📢 Uᴘᴅᴀᴛᴇ", url= "https://t.me/KR_Botz"),
+               InlineKeyboardButton("👨‍💻 Dᴇᴠs 🥷", callback_data = "dev")
                ],[
                InlineKeyboardButton("⛺ Hᴏᴍᴇ", callback_data = "start"),
                InlineKeyboardButton("🗑 Cʟᴏsᴇ", callback_data = "close")
@@ -235,12 +264,23 @@ async def cb_handler(client, query: CallbackQuery):
         )
     elif data == "dev":
         await query.message.edit_text(
-            text=kr.DEV_TXT,
+            text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
-               InlineKeyboardButton('Pᴀʏ 💰 Aᴍᴏᴜɴᴛ', url='https://t.me/happy_kid_sk'),
+               InlineKeyboardButton('๑۩ tค๓เl ۞ التاميل ۩๑', url='https://t.me/mr_tamil_kid'),
+               ],[
+               InlineKeyboardButton("≺≺ Bᴀᴄᴋ", callback_data = "about"),
+               InlineKeyboardButton("🗑 Cʟᴏsᴇ", callback_data = "close")
+               ]]
+            )
+        )
+    elif data == "don":
+        await query.message.edit_text(
+            text=mr.DON_TXT,
+            reply_markup=InlineKeyboardMarkup( [[
+               InlineKeyboardButton('Pᴀʏ 💰 Aᴍᴏᴜɴᴛ', url='https://t.me/mr_happy_kid_sk'),
                ],[
                InlineKeyboardButton("⛺ Hᴏᴍᴇ", callback_data = "start"),
-               InlineKeyboardButton("❌ Cʟᴏsᴇ ❌", callback_data = "close")
+               InlineKeyboardButton("🗑 Cʟᴏsᴇ", callback_data = "close")
                ]]
             )
         )
@@ -251,3 +291,34 @@ async def cb_handler(client, query: CallbackQuery):
         except:
             pass
 
+@Client.on_inline_query()
+async def answerX(bot, update):
+
+    answer = list()
+    answer.append(InlineQueryResultArticle(title="Dᴏɴᴀᴛᴇ Pᴀʏᴍᴇɴᴛ Oʀ Hᴇʀᴏᴋ Aᴄᴄᴏᴜɴᴛ", description="Dᴏɴᴀᴛᴇ Oɴʟʏ Oɴᴇ Rᴜᴘᴇᴇ 🥲.",
+    input_message_content=InputTextMessageContent(message_text=mr.DON_TXT),
+    reply_markup=InlineKeyboardMarkup( [[ 
+        InlineKeyboardButton("Dᴏɴᴀᴛᴇ 💳", url="https://p.paytm.me/xCTH/1icxtwpo"),
+        ],[
+        InlineKeyboardButton("🧛‍♂️ Aᴅᴍɪɴ", url="https://t.me/mr_tamil_kid"), 
+        InlineKeyboardButton("ʜᴇʀᴏᴋ ⚜️ Aᴄᴄᴏᴜɴᴛ ", url="https://t.me/mrtamil_kid")
+        ]] 
+    ),
+    thumb_url="https://telegra.ph/file/3d7e72118de22df4f553f.jpg") )
+
+    answer.append(InlineQueryResultArticle(title="I Nᴇᴇᴅ Pʀɪᴠᴀᴛᴇ Bᴏᴛs  ", description="Fɪʀsᴛ Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ.",
+    input_message_content=InputTextMessageContent(message_text=mr.PRI_TXT),
+    reply_markup=InlineKeyboardMarkup( [[ 
+        InlineKeyboardButton("♡︎ Cᴏɴᴛᴀᴄᴛ 🧛‍♂️ Aᴅᴍɪɴ ♡︎", url="https://t.me/mrtamil_kid")
+        ],[
+        InlineKeyboardButton("Pᴀʏ 💰 ₹80", url="https://p.paytm.me/xCTH/1icxtwpo"), 
+        InlineKeyboardButton("Pᴀʏ 💰 ₹160", url="https://p.paytm.me/xCTH/1icxtwpo")
+        ]]
+    ),
+    thumb_url="https://telegra.ph/file/25c04a16291bd879f6184.jpg") )
+    try:
+        await update.answer(results=answer, cache_time=0)
+    except Exception as e:
+        print(f"🚸 ERROR : {e}")
+    except QueryIdInvalid:
+        pass
