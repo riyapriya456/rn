@@ -191,3 +191,62 @@ async def send_doc(client,message):
        		[[ InlineKeyboardButton("📝 ʀᴇɴᴀᴍᴇ",callback_data = "rename"),
        		InlineKeyboardButton("✖️ ᴄᴀɴᴄᴇʟ",callback_data = "cancel")  ]]))
        		
+
+@Client.on_callback_query()
+async def cb_handler(client, query: CallbackQuery):
+    data = query.data 
+    if data == "start":
+        await query.message.edit_text(
+            text=kr.START_TXT,
+            reply_markup=InlineKeyboardMarkup( [[
+                InlineKeyboardButton("♡︎ Cᴏɴᴛᴀᴄᴛ 🧛‍♂️ Aᴅᴍɪɴ ♡︎", url='https://t.me/KR_Admin_Bot')
+                ],[
+                InlineKeyboardButton('📢 Uᴘᴅᴀᴛᴇs', url='https://t.me/KR_botz'),
+                InlineKeyboardButton('ℹ️ Sᴜᴘᴘᴏʀᴛ', url='https://t.me/+9o1NJzs67xc5ODA1')
+                ],[
+                InlineKeyboardButton('💡 Hᴇʟᴘ', callback_data='help'),
+                InlineKeyboardButton('📚 Aʙᴏᴜᴛ', callback_data='about')
+                ]]
+                )
+            )
+        return
+    elif data == "help":
+        await query.message.edit_text(
+            text=kr.HELP_TXT,
+            reply_markup=InlineKeyboardMarkup( [[
+               InlineKeyboardButton(' Dᴏɴᴀᴛᴇ 💸 Mᴇ ', callback_data='dev')
+               ],[
+               InlineKeyboardButton("⛺ Hᴏᴍᴇ", callback_data = "start"),
+               InlineKeyboardButton("🗑 Cʟᴏsᴇ", callback_data = "close")
+               ]]
+            )
+        )
+    elif data == "about":
+        await query.message.edit_text(
+            text=kr.ABOUT_TXT,
+            reply_markup=InlineKeyboardMarkup( [[
+               InlineKeyboardButton(' Dᴏɴᴀᴛᴇ 💸 Mᴇ ', callback_data='dev')
+               ],[
+               InlineKeyboardButton("⛺ Hᴏᴍᴇ", callback_data = "start"),
+               InlineKeyboardButton("🗑 Cʟᴏsᴇ", callback_data = "close")
+               ]]
+            )
+        )
+    elif data == "dev":
+        await query.message.edit_text(
+            text=kr.DEV_TXT,
+            reply_markup=InlineKeyboardMarkup( [[
+               InlineKeyboardButton('Pᴀʏ 💰 Aᴍᴏᴜɴᴛ', url='https://t.me/happy_kid_sk'),
+               ],[
+               InlineKeyboardButton("⛺ Hᴏᴍᴇ", callback_data = "start"),
+               InlineKeyboardButton("❌ Cʟᴏsᴇ ❌", callback_data = "close")
+               ]]
+            )
+        )
+    elif data == "close":
+        await query.message.delete()
+        try:
+            await query.message.reply_to_message.delete()
+        except:
+            pass
+
