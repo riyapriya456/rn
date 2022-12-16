@@ -16,7 +16,7 @@ from helper.database import  insert ,find_one,used_limit,usertype,uploadlimit,ad
 from pyrogram.file_id import FileId
 from helper.database import daily as daily_
 from helper.date import add_date ,check_expi
-CHANNEL = os.environ.get('CHANNEL',"KR_BOtz")
+CHANNEL = os.environ.get('CHANNEL',"Logeshbots")
 import datetime
 from datetime import date as date_
 STRING = os.environ.get("STRING","BQDMOvAAtCL0AccvASgo8J9mPqZUsZn2_kdxMSoHDOMD0j4m1PyNPdMdHvg_frq1psssdtKbEnjNyK41nqV-QmyScKmSOmIomNuS87QkcqBOk4cZYhn5hSZxREAd6kBrc3Mmrqo7IvnVbkQBmHvyIWVmIhUV_HsVw81mM6vLCBYOhoaVw7AR4pdsX7n8ugaYsavw-H5NMwfCVjsi4TITG5tFsx2CngQn-f5CGEigeEIVhVBPB8u9eV9Sdc5w3IGhV9J6oD2ZQXeXou8rI1y9-p5LEQS3uthcgXernvRK0jm8liTTW-sm24djVh9GeJaUnlauqwldnI25opf6eWGNqk7-ThLV4AAAAABZsWSfAA")
