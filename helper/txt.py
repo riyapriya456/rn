@@ -14,7 +14,7 @@ class kr(object):
 
     ABOUT_TXT = """<b>╔══❰ 𝗥𝗘𝗡𝗔𝗠𝗘𝗥 𝗕𝗢𝗧 ❱═❍
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼🤖 Mʏ Nᴀᴍᴇ : {}
+║┣⪼🤖 Mʏ Nᴀᴍᴇ : <a href='https://t.me/kr_renamer_bot'>『 Fɪʟᴇs Rᴇɴᴀᴍᴇ Pʀᴏ 』</a>
 ║┣⪼👦 Oᴡɴᴇʀ : <a href=https://t.me/MR_tamil_kid>Ꮋ ค ℘ ℘ ꪗ 👻 Ҝiᗪ</a>
 ║┣⪼👨‍💻 Dᴇᴠ : <a href=https://t.me/LastDrogz>Lᴀsᴛ 🐲 Dʀᴏɢᴢ</a>
 ║┣⪼📢 Uᴘᴅᴀᴛᴇ : <a href=https://t.me/kr_botz>𝗞𝗥 ⚠︎ 𝗕ᴏᴛᴢ</a>
