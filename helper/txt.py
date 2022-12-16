@@ -10,21 +10,21 @@ class kr(object):
 ┃
 ┣⪼<b>⏱️ : {4}</b>
 ┃
-╰─━━─❪ <b>@KR_Botz</b> ❫─━━─⍟ """
+╰─━━─❪ <b>@LOGESHBOTS</b> ❫─━━─⍟ """
 
     ABOUT_TXT = """<b>╔══❰ 𝗥𝗘𝗡𝗔𝗠𝗘𝗥 𝗕𝗢𝗧 ❱═❍
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼🤖 Mʏ Nᴀᴍᴇ : <a href='https://t.me/kr_renamer_bot'>『 Fɪʟᴇs Rᴇɴᴀᴍᴇ Pʀᴏ 』</a>
-║┣⪼👦 Oᴡɴᴇʀ : <a href=https://t.me/MR_tamil_kid>Ꮋ ค ℘ ℘ ꪗ 👻 Ҝiᗪ</a>
-║┣⪼👨‍💻 Dᴇᴠ : <a href=https://t.me/LastDrogz>Lᴀsᴛ 🐲 Dʀᴏɢᴢ</a>
-║┣⪼📢 Uᴘᴅᴀᴛᴇ : <a href=https://t.me/kr_botz>𝗞𝗥 ⚠︎ 𝗕ᴏᴛᴢ</a>
-║┣⪼❣️ Sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/kr_join>𝗞𝗥 👽 𝗝ᴏɪɴ</a>
-║┣⪼📡 Sᴇʀᴠᴇʀ : <a href=https://t.me/MRtamil_kid>𝗩𝗣𝗦</a>
+║┣⪼🤖 Mʏ Nᴀᴍᴇ : <a href='https://t.me/Rename_ls_bot'>『 Fɪʟᴇs Rᴇɴᴀᴍᴇ Pʀᴏ 』</a>
+║┣⪼👦 Oᴡɴᴇʀ : <a href=https://t.me/Logesh_bots>LOGESH</a>
+║┣⪼👨‍💻 Dᴇᴠ : <a href=https://t.me/Logesh_bots>LOGESJ</a>
+║┣⪼📢 Uᴘᴅᴀᴛᴇ : <a href=https://t.me/LOGESHBOTS>LOGESH BOTS</a>
+║┣⪼❣️ Sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/LOGESHBOTS>LOGESH BOTS</a>
+║┣⪼📡 Sᴇʀᴠᴇʀ : <a href=https://t.me/LOGESHBOTS>𝗩𝗣𝗦</a>
 ║┣⪼🗣️ Lᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>Pʏᴛʜᴏɴ3</a>
 ║┣⪼📚 Lɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>Pʏʀᴏɢʀᴀᴍ</a>  
 ║┣⪼🗒️ Vᴇʀsɪᴏɴ : V 1.0.0 [ Bᴇᴛᴀ ]
 ║╰━━━━━━━━━━━━━━━➣
-╚═════❰ @KR_Botz ❱═════❍ </b>
+╚═════❰ @LOGESHBOTS ❱═════❍ </b>
 """
 
 
@@ -32,29 +32,29 @@ class kr(object):
 ┃
 ┣⪼ Mʏ ɴᴀᴍᴇ : {}
 ┃
-┣⪼ Oᴡɴᴇʀ : <a href='https://telegram.dog/happy_kid_robot'>Hᴀᴘᴘʏ 🧛‍♂️ Kɪᴅ</a>
+┣⪼ Oᴡɴᴇʀ : <a href='https://telegram.dog/LOGESH_BOTS'>LOGESH</a>
 ┃
-┣⪼ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.dog/LastDrogz'>Lᴀsᴛ 🐲 Dʀᴏɢᴢ</a>
+┣⪼ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.dog/logesh_bots'>LOGESH</a>
 ┃
-┣⪼ Cʜᴀɴɴᴇʟ :<a href='https://t.me/kr_botz'>KR ⚠︎ Bᴏᴛᴢ</a>
+┣⪼ Cʜᴀɴɴᴇʟ :<a href='https://t.me/LOGESHBOTS'>LOGESH BOTS</a>
 ┃
-┣⪼ Sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/+4FN95cDmy4IwZDll'>KR_Sᴜᴘᴘᴏʀᴛ</a>
+┣⪼ Sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/logeshbots'>LOGESH BOTS</a>
 ┃
 ┣⪼ Vᴇʀꜱɪᴏɴ : 1.0.0 [ Bᴇᴛᴀ ]
 ┃
-┣⪼ Sᴇʀᴠᴇʀ : Hᴇʀᴏᴋᴜ
+┣⪼ Sᴇʀᴠᴇʀ : VPS
 ┃
 ┣⪼ Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ 3.10.5
 ┃
 ┣⪼ Fʀᴀᴍᴇᴡᴏʀᴋ : Pʏʀᴏɢʀᴀᴍ 1.4.16
 ┃
-┣⪼ Pᴏᴡᴇʀᴇᴅ ʙʏ : @BGM_LinkzZ 
+┣⪼ Pᴏᴡᴇʀᴇᴅ ʙʏ : @LOGESHBOTS 
 ┃
-┣⪼ Cʀᴇᴅɪᴛs : @----------
+┣⪼ Cʀᴇᴅɪᴛs : @LOGESH_BOTS
 ┃
 ┣⪼ Lᴀᴜɴᴄʜ Oɴ : [ 16.12.2022 ] 7:30 PM
 ┃
-╰─━━─❪ @KR_Botz ❫─━━─⍟ </b>"""
+╰─━━─❪ @LOGESHBOTS ❫─━━─⍟ </b>"""
 
     HELP_TXT = """
 <b>🌌 𝐇𝐎𝐖 𝐓𝐎 𝐒𝐄𝐓 𝐓𝐇𝐔𝐌𝐁𝐍𝐈𝐋𝐄 
@@ -78,10 +78,10 @@ class kr(object):
 •> Sᴇɴᴅ Aɴʏ Fɪʟᴇ Aɴᴅ Cʟɪᴄᴋ Rᴇɴᴀᴍᴇ Oᴘᴛɪᴏɴ Aɴᴅ Tʏᴘᴇ Nᴇᴡ Fɪʟᴇ Nᴀᴍᴇ Aɴᴅ 
  Sᴇɴᴅ Sᴇʟᴇᴄᴛ [ Dᴏᴄᴜᴍᴇɴᴛ, Vɪᴅᴇᴏ, Aᴜᴅɪᴏ ]👈 Cʜᴏɪᴄᴇ Tʜɪs.
 
-®️ Mᴀᴅᴇ Wɪᴛʜ ❣️ @KR_Botz & @BGM_LinkzZ 
+®️ Mᴀᴅᴇ Wɪᴛʜ ❣️ @logesh_bots & @logeshbots 
 ⚜️ Bᴏᴛ Aɴʏ Issᴜᴇs Cᴏɴᴛᴀᴄᴛ Mᴇ
-𝗔𝗱𝗺𝗶𝗻 : @KR_Admin_Bot
-𝗦𝘂𝗽𝗽𝗼𝗿𝘁 : @KR_Join </b> 
+𝗔𝗱𝗺𝗶𝗻 : @logesh_bots
+𝗦𝘂𝗽𝗽𝗼𝗿𝘁 : @logeshbots </b> 
 """
 
     DON_TXT = """
