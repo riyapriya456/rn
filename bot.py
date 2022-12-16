@@ -27,7 +27,7 @@ bot = Client(
            
 
 if STRING:
-    apps = [Client2,bot]
+    apps = [app,bot]
     for app in apps:
         app.start()
     idle()
