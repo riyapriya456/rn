@@ -10,25 +10,25 @@ async def upgrade(bot,update):
 	
 	**VIP 1 ** 
 	Daily  Upload  limit 10GB
-	Price Rs 55  🇮🇳/🌎 0.67$  per Month
+	Price Rs 45  🇮🇳/🌎 0.60$  per Month
 	
 	**VIP 2 **
 	Daily Upload limit 50GB
-	Price Rs 80  🇮🇳/🌎 0.97$  per Month
+	Price Rs 70  🇮🇳/🌎 0.90$  per Month
 	
 	**VIP3**
 	Daily Upload limit 100GB
 	Price Rs 150  🇮🇳/🌎 1.81$  per Month
 	
 	
-	Pay Using Upi I'd ```tamildub@ybl```
+	Pay Using Upi I'd ```logeshbots@ybl```
 	
 	After Payment Send Screenshots Of 
         Payment To Admin"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/Mr_Tamil_KiD")], 
-        			[InlineKeyboardButton("PayPal 🌎",url = "https://t.me/Mr_Tamil_KiD"),
-        			InlineKeyboardButton("Paytm",url = "https://p.paytm.me/xCTH/1icxtwpo")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
+        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/logesh_bots")], 
+        			[InlineKeyboardButton("PayPal 🌎",url = "https://t.me/logesh_bots"),
+        			InlineKeyboardButton("Paytm",url = "https://t.me/logesh_bots")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await update.message.edit(text = text,reply_markup = keybord)
 	
 
@@ -40,23 +40,23 @@ async def upgradecm(bot,message):
 	
 	**VIP 1 ** 
 	Daily  Upload  limit 10GB
-	Price Rs 55  🇮🇳/🌎 0.67$  per Month
+	Price Rs 45  🇮🇳/🌎 0.60$  per Month
 	
 	**VIP 2 **
 	Daily Upload limit 50GB
-	Price Rs 80  🇮🇳/🌎 0.97$  per Month
+	Price Rs 75  🇮🇳/🌎 0.90$  per Month
 	
 	**VIP3**
 	Daily Upload limit 100GB
 	Price Rs 150  🇮🇳/🌎 1.81$  per Month
 	
 	
-	Pay Using Upi I'd ```9480251952@paytm```
+	Pay Using Upi I'd ```logeshbots@ybl```
 	
 	After Payment Send Screenshots Of 
         Payment To Admin"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/Mr_Tamil_KiD")], 
-        			[InlineKeyboardButton("PayPal 🌎",url = "https://t.me/Mr_Tamil_KiD"),
-        			InlineKeyboardButton("Paytm",url = "https://p.paytm.me/xCTH/1icxtwpo")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
+        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/logesh_bots")], 
+        			[InlineKeyboardButton("PayPal 🌎",url = "https://t.me/logesh_bots"),
+        			InlineKeyboardButton("Paytm",url = "https://t.me/logesh_bots")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await message.reply_text(text = text,reply_markup = keybord)
