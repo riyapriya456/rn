@@ -16,11 +16,11 @@ from helper.set import escape_invalid_curly_brackets
 
 log_channel = int(os.environ.get("LOG_CHANNEL", "-1001580040547"))
 
-API_ID = int(os.environ.get("API_ID", "13384432"))
+API_ID = int(os.environ.get("API_ID", "25712813"))
 
-API_HASH = os.environ.get("API_HASH", "ea9db4503ed7088b788e06dfd818e00e")
+API_HASH = os.environ.get("API_HASH", "c201751b80c7d185f986141cbadc4275")
 
-STRING = os.environ.get("STRING", "BQDMOvAAtCL0AccvASgo8J9mPqZUsZn2_kdxMSoHDOMD0j4m1PyNPdMdHvg_frq1psssdtKbEnjNyK41nqV-QmyScKmSOmIomNuS87QkcqBOk4cZYhn5hSZxREAd6kBrc3Mmrqo7IvnVbkQBmHvyIWVmIhUV_HsVw81mM6vLCBYOhoaVw7AR4pdsX7n8ugaYsavw-H5NMwfCVjsi4TITG5tFsx2CngQn-f5CGEigeEIVhVBPB8u9eV9Sdc5w3IGhV9J6oD2ZQXeXou8rI1y9-p5LEQS3uthcgXernvRK0jm8liTTW-sm24djVh9GeJaUnlauqwldnI25opf6eWGNqk7-ThLV4AAAAABZsWSfAA")
+STRING = os.environ.get("STRING", "BQApDlTNdmaNTBMmrScFkFQQfqSlIcgQ7PkNOH6O4_mLeK2EBWfc_CxOYR6VQVNkwk8j10bXswsk6s8dmwD2XDKTob6PWI_DKLiAUrRIUduIeCP-RD3zZ_CNIhRh_t6TCuPqN9c8treQvTrsQn2RQK4ucnYmCT6kyozioM_uCRiQMKHyB8iCnKOblU9XIE9zEQZlTUmM7gURBKBlf-X_f4QBwhaSK1EJYsimtBgwXOjbqZA69BPGrM9IvL1JBSJNbDGrCQFb24IoWqDB2R8zUUB4O2GfmyQHhWgK3itMIz9pwWuI_kb44lX7EN8Xg_zlHTqLmjPj1Kcn9LTYPjMhihDgAAAAAUd3TLwA")
 
 app = Client("test", api_id=API_ID, api_hash=API_HASH, session_string=STRING)
 
