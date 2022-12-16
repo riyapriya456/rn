@@ -94,9 +94,9 @@ Dᴏɴᴀᴛᴇ Oɴʟʏ Oɴᴇ Rᴜᴘᴇᴇ 🥲
 Of 10₹, 20₹, 30₹, 50₹, 70₹, 100₹, 200₹ 😊
 📨 Pᴀʏᴍᴇɴᴛ Mᴇᴛʜᴏᴅs:
  
-GᴏᴏɢʟᴇPᴀʏ / Pᴀʏᴛᴏɴ / PʜᴏɴPᴀʏ / PᴀʏPᴀʟ
+GᴏᴏɢʟᴇPᴀʏ / PʜᴏɴPᴀʏ / Paytm
  
- Oʀ Dᴏɴᴀᴛᴇ: Mᴇssᴀɢᴇ Mᴇ @MR_Tamil_KiD </b>
+ Oʀ Dᴏɴᴀᴛᴇ: Mᴇssᴀɢᴇ Mᴇ @Logesh_bots </b>
 """
 
     DEV_TXT = "Nothing 🤨"
@@ -106,16 +106,14 @@ GᴏᴏɢʟᴇPᴀʏ / Pᴀʏᴛᴏɴ / PʜᴏɴPᴀʏ / PᴀʏPᴀʟ
 Hᴇʏ! Dᴇᴀʀ Vɪsɪᴛᴏʀs 🚸
 I Cᴀɴ Cʀᴇᴀᴛᴇ A Pᴇʀsᴏɴᴀʟ Bᴏᴛ Fᴏʀ Yᴏᴜ Iɴ Vᴇʀʏ Mɪɴɪᴍᴜᴍ Rᴀᴛᴇ ;
   
-            Jᴜsᴛ Pᴀʏ 💰 ₹𝟾𝟶/Bᴏᴛ Fᴏʀ Bᴏᴛs. [Sᴏᴍᴇ Bᴏᴛs Lɪᴋᴇ Mᴏᴠɪᴇs Bᴏᴛs Cᴀɴ Cʜᴀʀɢᴇ ₹𝟷𝟼𝟶 Wɪᴛʜ 1𝟶𝟶ᴋ Fɪʟᴇs. ] 
+            Jᴜsᴛ Pᴀʏ 💰 Cheap Fᴏʀ Bᴏᴛs. [Sᴏᴍᴇ Bᴏᴛs Lɪᴋᴇ Mirror/leech bot. ] 
 
-🗣📲📞 Cᴏɴᴛᴀᴄᴛ  Mᴇ : @MR_Tamil_KiD
-
-Pʟᴇᴀsᴇ!!!! Dᴏɴ'ᴛ Dᴇᴍᴀɴᴅs Oᴛᴛ Bᴏᴛs Oʀ Pʀᴇᴍɪᴜᴍ Dᴏᴡɴʟᴏᴀᴅᴇʀ Bᴏᴛs Eʟsᴇ Bᴀɴ!.... 
+🗣📲📞 Cᴏɴᴛᴀᴄᴛ  Mᴇ : @Logesh_bots
 
                ~ Rᴇɢᴀʀᴅs ~
- ✥════ @KR_Botz ════✥
+ ✥════ @LOGESHBOTS ════✥
 
 🤑 Dᴏɴᴀᴛɪᴏɴ Fᴏʀ Us Wʜᴏ Gɪᴠᴇs Cʜᴇᴀᴘᴇsᴛ Pʀɪᴄᴇ Bᴏᴛ :-
 
- <code> happysfx24@ybl </code> or @MR_Tamil_KiD </b>
+ <code> LOGESHBOTS@ybl </code> or @LOGESH_BOTS </b>
 """
