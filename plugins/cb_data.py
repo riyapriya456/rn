@@ -14,7 +14,7 @@ from helper.ffmpeg import take_screen_shot,fix_thumb
 from helper.progress import humanbytes
 from helper.set import escape_invalid_curly_brackets
 
-log_channel = int(os.environ.get("LOG_CHANNEL", "-1001580040547"))
+log_channel = int(os.environ.get("LOG_CHANNEL", "-1001837287210"))
 
 API_ID = int(os.environ.get("API_ID", "25712813"))
 
