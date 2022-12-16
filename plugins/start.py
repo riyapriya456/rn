@@ -7,6 +7,11 @@ import humanize
 from helper.progress import humanbytes
 from helper.txt import kr
 
+from pyrogram.errors import QueryIdInvalid
+from pyrogram. types import InlineQuery
+from pyrogram.types import InputTextMessageContent
+from pyrogram.types import InlineQueryResultArticle
+
 from helper.database import  insert ,find_one,used_limit,usertype,uploadlimit,addpredata,total_rename,total_size
 from pyrogram.file_id import FileId
 from helper.database import daily as daily_
